@@ -56,4 +56,4 @@ for N in [5, 10, 50, 100, 1000]:
 
 
 # Q-13 
-# les valeurs depassent les limites autorisé de stackage 
+# les valeurs depassent les limites autorise de stackage 
